@@ -1,0 +1,15 @@
+.card{
+padding-left: 24%;
+}
+
+.card-header{
+    width: 520px;
+}
+
+.card-body{
+    width: 520px;
+}
+
+.card-footer{
+    width: 520px;
+}
